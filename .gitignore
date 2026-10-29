@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+.skip.config.json
+0004_seed_admin_user.js
+.DS_Store
+Thumbs.db
